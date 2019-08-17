@@ -1,2 +1,2 @@
-# msage
+# MSAGE
 MSAGE powered by Python

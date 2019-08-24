@@ -1,5 +1,5 @@
 # MSAGE #
-MSAGE powered by Python3
+MSAGE powered by Python3\
 MSAGE developed by Berkay Eren EMİN
 
 ### MSAGE nedir?
@@ -30,11 +30,11 @@ NOTE: Files are uploaded without editing.
 ![alt text](https://github.com/Berkayerenemin/msage/blob/master/MSAGE.png)
 
 ### Tahmini gelecekte eklenecekler...
-Kullanıcı profili oluşturma
-Update mekanizması
-Özel mesaj düzenlemesi
-Yeni grup oluşturma mekaniği
-Sesli konuşma
+Kullanıcı profili oluşturma\
+Update mekanizması\
+Özel mesaj düzenlemesi\
+Yeni grup oluşturma mekaniği\
+Sesli konuşma\
 Dosya gönderme (mp3, jpg...)
 
 Ekleneceği düşünülen kütüphaneler;

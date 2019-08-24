@@ -28,3 +28,19 @@ NOTE: Files are uploaded without editing.
 
 
 ![alt text](https://github.com/Berkayerenemin/msage/blob/master/MSAGE.png)
+
+### Tahmini gelecekte eklenecekler...
+Kullanıcı profili oluşturma
+Update mekanizması
+Özel mesaj düzenlemesi
+Yeni grup oluşturma mekaniği
+Sesli konuşma
+Dosya gönderme (mp3, jpg...)
+
+Ekleneceği düşünülen kütüphaneler;
+```
+sqlite3
+flask
+time
+json
+```
